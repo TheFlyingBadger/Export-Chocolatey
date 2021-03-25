@@ -3,8 +3,7 @@
 This exports the list of your currently installed [Chocolatey](https://chocolatey.org/) packages to a pair of .config files
 
 
-run "export-chocolatey.ps1" (or "export-chocolatey.bat" if you prefer) and it will export your currently installed packages
-
+run `export-chocolatey.ps1` (or `export-chocolatey.bat` if you prefer) and it will export your currently installed packages, a log file (`export.<<MACHINENAME>>.config`) will also be produced
 
 
 To install the latest versions of all packages 
